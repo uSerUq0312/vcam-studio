@@ -1,0 +1,4 @@
+# Python 依赖（Windows 自带 Python 3.10+ 均可）
+PyQt5>=5.15
+Pillow>=10.0
+numpy>=1.24

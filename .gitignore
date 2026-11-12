@@ -1,0 +1,17 @@
+# local config (contains personal paths)
+config.json
+
+# media sources
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# runtime artifacts
+_artifacts/
+__pycache__/
+*.pyc
+
+# personal handoff docs (not for public repo)
+AI-项目了解.md
+docs/使用说明.md
